@@ -1,3 +1,5 @@
+#Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
 lados = input("Digite o tamanho dos lados do quadrado: ")
 area = float(lados) * float(lados)
 dobro = float(area) * 2
