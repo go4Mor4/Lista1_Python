@@ -1,4 +1,4 @@
-#Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+#Faça um Programa que peça as 4 notas bimestrais e mostre a média
 
 n1 = input("Nota 1: ")
 n2 = input("Nota 2: ")
